@@ -18,4 +18,6 @@ Take this [idea](https://www.usgs.gov/centers/sbsc/science/restorenet-distribute
 2. Measure inverts in and out.  
 3. Cam trap exclosures.  
 4. Measure dark div in region of plants, inverts, and birds.  
+5. Measure local (ie plots in exclosures and out) and using DarkDiv methods under meso-drivers and open - ie shrub-open, cacti-open, mounds-open.  
+
 
